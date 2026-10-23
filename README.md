@@ -32,8 +32,7 @@ This SOP follows the standard `APPLOAD` and Startup Suite process used in the re
 2. Browse to `\AutoCAD\_Templates & Tools\AutoCAD-Tools\lsp`
 3. Select `auto-title.lsp` and click **Load**.
 4. Confirm that the command line outputs the following:
-
->[!output] 	
+   
 >auto-title.lsp successfully loaded.
 
 5.  Click **Contents…** in the Startup Suite window next to the **Loaded Applications** list in `APPLOAD`. A dialog box will open. 
@@ -43,7 +42,9 @@ This SOP follows the standard `APPLOAD` and Startup Suite process used in the re
 9. Restart AutoCAD and confirm the command line outputs the following:
 
 >auto-title.lsp successfully loaded.
->Drawing Index loaded. Type BUILDINDEX to run. 
+
+>Drawing Index loaded. Type BUILDINDEX to run.
+
 >Title Array loaded. Type BUILDTITLEARRAY to run.
 
 10. You're done!
