@@ -42,7 +42,6 @@ This SOP follows the standard `APPLOAD` and Startup Suite process used in the re
 8. A security prompt will appear when the tool is first loaded. Click **Always Load**.
 9. Restart AutoCAD and confirm the command line outputs the following:
 
->[!output]
 >auto-title.lsp successfully loaded.
 >Drawing Index loaded. Type BUILDINDEX to run. 
 >Title Array loaded. Type BUILDTITLEARRAY to run.
